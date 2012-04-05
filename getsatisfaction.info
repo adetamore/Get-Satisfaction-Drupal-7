@@ -1,0 +1,6 @@
+; CVS ID
+name = Get Satisfaction
+description = Adds Get Satisfaction javascript code to your site
+package = Other
+core = 7.x
+
